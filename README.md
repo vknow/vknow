@@ -40,7 +40,13 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <b>GitHub Stats</b>
+<p>
+<a href="htttps://www.github.com/vknow"><img src="gitstats.svg" alt="vinoth kumar git stats"> </a>
+</p>
 
+<p>
+  <a href="https://www.github.com/vknow"><img src="toplang.svg" alt="vinoth kumar top lang"></a>
+</p>
 <a href="http://www.github.com/vknow"><img src="https://github-readme-stats.vercel.app/api?username=vknow&show_icons=true&hide=stars,&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="vinoth kumar's GitHub stats" /></a>
 
 <a href="https://github.com/vknow" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vknow&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
