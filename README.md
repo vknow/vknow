@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Vinoth Kumar Pandiyan</h1>
 <h3 align="center">I am a Full Stack Developer focusing on developing responsive web applications.</h3>
 
-- 🚀  I’m currently working on [Digify](https://www.digify.com/)
+- 🚀  I’m currently working at [Digify](https://www.digify.com/)
 
 - 🧠  I’m currently learning **Nestjs, react**
 
