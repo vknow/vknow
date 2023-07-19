@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Vinoth Kumar Pandiyan</h1>
-<h3 align="center">I am a Full Stack Developer focusing on developing responsive web applications.</h3>
+<h3 align="center">I am a Full Stack Developer focusing on developing nodejs web applications.</h3>
 
 - 🚀  I’m currently working at [Digify](https://www.digify.com/)
 
